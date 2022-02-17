@@ -5,4 +5,6 @@ The project context is a clothing store, and I made it to handle information rel
 
 I did the database modeling too, below we have more information about the Entity Relationship Diagram (ERD).
 
-![DER (ERD) of the project](https://user-images.githubusercontent.com/86082589/154522667-7181422a-2f63-48ee-a526-94c5fc1453ec.png)
+
+![ERD of the project](https://user-images.githubusercontent.com/86082589/154532996-9cc1cd13-83a6-4d3f-8246-dd518a596ea1.png)
+
